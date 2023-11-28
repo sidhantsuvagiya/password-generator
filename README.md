@@ -2,6 +2,8 @@
 
 This is a simple password generator tool built with React and Vite, designed to help you create strong and secure passwords with ease. The generator offers customizable options to tailor the generated password based on your preferences.
 
+🔗 Live Link: https://sidhantsuvagiya.github.io/password-generator
+
 ## Features
 
 - **Length Slider:** Adjust the length of the password using a range slider.
